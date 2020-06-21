@@ -1,0 +1,2 @@
+Lootbox simulator
+---
